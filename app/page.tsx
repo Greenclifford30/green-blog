@@ -47,7 +47,7 @@ const Home: React.FC = () => {
             <div className="mt-4 flex flex-col md:flex-row items-center">
               <div className="relative w-32 h-32 md:w-48 md:h-48 rounded-full overflow-hidden shadow-lg">
                 <Image
-                  src="/profile.jpg"
+                  src={profilePic}
                   alt="Profile photo of Clifford Green"
                   layout="fill"
                   objectFit="cover"
