@@ -71,11 +71,9 @@ const Home: React.FC = () => {
                 />
     </div>
     <p className="mt-6 md:mt-0 md:ml-8 text-gray-700 dark:text-gray-300 leading-relaxed text-lg">
-    As a Cloud Engineer, I am passionate about building innovative solutions that empower businesses to meet their evolving needs. Over the course of my career, I have worn many hats—from working with legacy systems using COBOL to leading enterprise transitions to SaaS-based tools like Salesforce. I've collaborated on designing and building APIs that deliver critical data consistently, and I have played a key role in establishing microservice architectures that enable teams to access legacy data in a modern, scalable way.
-
-As technology evolved and cloud computing became integral to daily operations, I shifted my focus to crafting robust infrastructure solutions for enterprises. Recently, I have been instrumental in lifting and shifting DevOps tools into containerized environments using AWS EKS and ECS, all while honing cost-effective management strategies. I have also led the development of internal tools designed to streamline business processes, working closely with architects to build modern cloud solutions from the ground up.
-
-My journey—from legacy systems to cutting-edge cloud technologies—demonstrates my ability to adapt, innovate, and drive digital transformation. I am dedicated to leveraging my diverse experience to create scalable, efficient solutions that empower businesses to thrive in today’s digital-first world.
+    "As a Cloud Engineer, I am passionate about building innovative solutions that empower businesses to meet their evolving needs. Over the course of my career, I have worn many hats—from working with legacy systems using COBOL to leading enterprise transitions to SaaS-based tools like Salesforce. I've collaborated on designing and building APIs that deliver critical data consistently, and I have played a key role in establishing microservice architectures that enable teams to access legacy data in a modern, scalable way.
+    As technology evolved and cloud computing became integral to daily operations, I shifted my focus to crafting robust infrastructure solutions for enterprises. Recently, I have been instrumental in lifting and shifting DevOps tools into containerized environments using AWS EKS and ECS, all while honing cost-effective management strategies. I have also led the development of internal tools designed to streamline business processes, working closely with architects to build modern cloud solutions from the ground up.
+    My journey—from legacy systems to cutting-edge cloud technologies—demonstrates my ability to adapt, innovate, and drive digital transformation. I am dedicated to leveraging my diverse experience to create scalable, efficient solutions that empower businesses to thrive in today’s digital-first world."
     </p>
   </div>
 </section>
